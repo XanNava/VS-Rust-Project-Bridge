@@ -1,7 +1,7 @@
  # VsRustAutoLink
 
 
-Will create and setup a vs project that will build and runa rust project, and interface with it through console.
+Will create and setup a vs project that will build and run a rust project, and interface with it through console.
 
 Load up the project, it will create the rust vs project, and setup the enviroment, and setup the build commands.
 
